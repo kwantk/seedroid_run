@@ -1,0 +1,38 @@
+<entry>
+	<id>https://picasaweb.google.com/data/entry/api/user/112492755030744183522/albumid/5886086945376848401</id>
+	<published>2013-06-02T07:00:00.000Z</published>
+	<updated>2013-06-05T20:04:20.971Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#album'/>
+	<title type='text'>Mother in law birthday</title>
+	<summary type='text'/>
+	<rights type='text'>private</rights>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/112492755030744183522/albumid/5886086945376848401?authkey=Gv1sRgCPGdl4ujicz3Cw'/>
+	<link rel='alternate' type='text/html' href='https://picasaweb.google.com/112492755030744183522/MotherInLawBirthday02?authkey=Gv1sRgCPGdl4ujicz3Cw'/>
+	<link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/112492755030744183522/albumid/5886086945376848401?authkey=Gv1sRgCPGdl4ujicz3Cw'/>
+	<link rel='edit' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/112492755030744183522/albumid/5886086945376848401/66?tok=QUI1UGxRWXhxdW54S0l1MUtuZllES0EyMlBDc3VUSzQ2UToxMzcxNDE2MjA2ODEw&amp;authkey=Gv1sRgCPGdl4ujicz3Cw'/><link rel='http://schemas.google.com/acl/2007#accessControlList' type='application/atom+xml' href='https://picasaweb.google.com/data/entry/api/user/112492755030744183522/albumid/5886086945376848401/acl?authkey=Gv1sRgCPGdl4ujicz3Cw'/>
+	<author>
+		<name>Tony Kwan</name>
+		<uri>https://picasaweb.google.com/112492755030744183522</uri>
+	</author>
+	<gphoto:id>5886086945376848401</gphoto:id>
+	<gphoto:name>MotherInLawBirthday02</gphoto:name>
+	<gphoto:location/>
+	<gphoto:access>private</gphoto:access>
+	<gphoto:timestamp>1370156400000</gphoto:timestamp>
+	<gphoto:numphotos>27</gphoto:numphotos>
+	<gphoto:numphotosremaining>973</gphoto:numphotosremaining>
+	<gphoto:bytesUsed>7759586</gphoto:bytesUsed>
+	<gphoto:user>112492755030744183522</gphoto:user>
+	<gphoto:nickname>Tony Kwan</gphoto:nickname>
+	<gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+	<gphoto:commentCount>0</gphoto:commentCount>
+	<media:group>
+		<media:content url='https://lh3.googleusercontent.com/-F9nf_s5IQ8k/Ua-U5BhAShE/AAAAAAAAdEQ/Qpxt-3Co0Ug/MotherInLawBirthday02.jpg' type='image/jpeg' medium='image'/>
+		<media:credit>Tony Kwan</media:credit>
+		<media:description type='plain'/>
+		<media:keywords/>
+		<media:thumbnail url='https://lh3.googleusercontent.com/-F9nf_s5IQ8k/Ua-U5BhAShE/AAAAAAAAdEQ/Qpxt-3Co0Ug/s160-c/MotherInLawBirthday02.jpg' height='160' width='160'/>
+		<media:title type='plain'>Mother in law birthday</media:title>
+	</media:group>
+</entry>
+
